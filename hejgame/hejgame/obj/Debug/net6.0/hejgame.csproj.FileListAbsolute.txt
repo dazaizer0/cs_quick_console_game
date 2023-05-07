@@ -1,0 +1,15 @@
+D:\_PROGRAMMING\CS\hejgame\hejgame\bin\Debug\net6.0\hejgame.exe
+D:\_PROGRAMMING\CS\hejgame\hejgame\bin\Debug\net6.0\hejgame.deps.json
+D:\_PROGRAMMING\CS\hejgame\hejgame\bin\Debug\net6.0\hejgame.runtimeconfig.json
+D:\_PROGRAMMING\CS\hejgame\hejgame\bin\Debug\net6.0\hejgame.dll
+D:\_PROGRAMMING\CS\hejgame\hejgame\bin\Debug\net6.0\hejgame.pdb
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.csproj.AssemblyReference.cache
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.AssemblyInfoInputs.cache
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.AssemblyInfo.cs
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.csproj.CoreCompileInputs.cache
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.dll
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\refint\hejgame.dll
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.pdb
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.genruntimeconfig.cache
+D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\ref\hejgame.dll

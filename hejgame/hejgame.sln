@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hejgame", "hejgame\hejgame.csproj", "{ABA0E170-1008-47FA-A069-260C9577B63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA0E170-1008-47FA-A069-260C9577B63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA0E170-1008-47FA-A069-260C9577B63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA0E170-1008-47FA-A069-260C9577B63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA0E170-1008-47FA-A069-260C9577B63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C3A6D4-A761-4202-8A61-F24049B3A9CA}
+	EndGlobalSection
+EndGlobal
