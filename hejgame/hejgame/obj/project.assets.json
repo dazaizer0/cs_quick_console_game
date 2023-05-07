@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_PROGRAMMING\\CS\\hejgame\\hejgame\\hejgame.csproj",
+      "projectUniqueName": "D:\\GRA - NIE KASOWAC\\Hejgame\\github\\hejgame-csconsolegame\\hejgame\\hejgame\\hejgame.csproj",
       "projectName": "hejgame",
-      "projectPath": "D:\\_PROGRAMMING\\CS\\hejgame\\hejgame\\hejgame.csproj",
+      "projectPath": "D:\\GRA - NIE KASOWAC\\Hejgame\\github\\hejgame-csconsolegame\\hejgame\\hejgame\\hejgame.csproj",
       "packagesPath": "C:\\Users\\PC COMPUTER\\.nuget\\packages\\",
-      "outputPath": "D:\\_PROGRAMMING\\CS\\hejgame\\hejgame\\obj\\",
+      "outputPath": "D:\\GRA - NIE KASOWAC\\Hejgame\\github\\hejgame-csconsolegame\\hejgame\\hejgame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

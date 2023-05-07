@@ -3,7 +3,6 @@ using System;
 
 int size = 5;
 
-
 Thread reader = new(movement);
 reader.Start();
 
@@ -12,6 +11,7 @@ while (true)
 
     game();
     Thread.Sleep(10);
+
     Console.Clear();
 }
 
@@ -41,6 +41,7 @@ void game()
                 }
                 else
                 {
+
                     write("*", false);
                 }
             }
@@ -86,6 +87,7 @@ void write(string text, bool line)
 
     if (line) 
     {
+
         Console.WriteLine(" " + text);
     }
     else
