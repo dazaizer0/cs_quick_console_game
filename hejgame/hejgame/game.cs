@@ -1,10 +1,9 @@
 ﻿using hejgame;
 using System;
 
-int size = 5;
-
-Thread reader = new(movement);
-reader.Start();
+settings.apply_settings();
+Thread game_player = new(movement);
+game_player.Start();
 
 while (true)
 {
@@ -20,10 +19,10 @@ void game()
 
     game_manager();
 
-    for (int y = -size; y < size; y++)
+    for (int y = -settings.map_size; y < settings.map_size; y++)
     {
 
-        for (int x = -size; x < size; x++)
+        for (int x = -settings.map_size; x < settings.map_size; x++)
         {
 
             if(y == player.position_y &&  x == player.position_x)

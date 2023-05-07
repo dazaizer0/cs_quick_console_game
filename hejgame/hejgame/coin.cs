@@ -10,11 +10,16 @@ namespace hejgame
     internal class coin
     {
 
+        static Random random = new Random();
+
+
         public static bool is_active = true;
 
         public static string mark = "C";
 
-        public static int position_x = -2;
-        public static int position_y = -2; 
+        static int random_position_x = random.Next(-settings.map_size, settings.map_size);
+        static int random_position_y = random.Next(-settings.map_size, settings.map_size);
+        public static int position_x = random_position_x;
+        public static int position_y = random_position_y; 
     }
 }

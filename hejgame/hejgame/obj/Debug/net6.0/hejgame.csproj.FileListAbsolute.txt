@@ -13,3 +13,18 @@ D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\refint\hejgame.dll
 D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.pdb
 D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\hejgame.genruntimeconfig.cache
 D:\_PROGRAMMING\CS\hejgame\hejgame\obj\Debug\net6.0\ref\hejgame.dll
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\bin\Debug\net6.0\hejgame.exe
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\bin\Debug\net6.0\hejgame.deps.json
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\bin\Debug\net6.0\hejgame.runtimeconfig.json
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\bin\Debug\net6.0\hejgame.dll
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\bin\Debug\net6.0\hejgame.pdb
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.dll
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\refint\hejgame.dll
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.pdb
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\hejgame.genruntimeconfig.cache
+D:\GRA - NIE KASOWAC\Hejgame\github\hejgame-csconsolegame\hejgame\hejgame\obj\Debug\net6.0\ref\hejgame.dll
