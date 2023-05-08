@@ -15,6 +15,8 @@ namespace hejgame
         public static int position_x = 2;
         public static int position_y = 2;
 
+        public static string inventory = "";
+
 
         private static int SCORE;
         public static int score
