@@ -49,11 +49,6 @@ void game()
                     write("*", false);
                 }
             }
-            else if (OnTrigger(y, x, @object.position_y, @object.position_x) && player.score >= 1) { write("T", false); player.inventory =  "p1"; }
-            else if (OnTrigger(y, x, @object.position_y1, @object.position_x1) && player.score >= 2) { write("T", false); player.inventory = player.inventory + "p1, p2"; }
-            else if (OnTrigger(y, x, @object.position_y2, @object.position_x2) && player.score >= 3) { write("T", false); player.inventory = player.inventory + "p1, p2, p3"; }
-            else if (OnTrigger(y, x, @object.position_y3, @object.position_x3) && player.score >= 4) { write("T", false); player.inventory = player.inventory + "p1, p2, p3, p4"; }
-            else if (OnTrigger(y, x, @object.position_y4, @object.position_x4) && player.score >= 5) { write("T", false); player.inventory = player.inventory + "p1, p2, p3,p4, p5"; }
             else
             {
 
